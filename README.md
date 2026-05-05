@@ -4,7 +4,7 @@ Membership Inference Attack on a ResNet-18 image classifier – Trustworthy Mach
 ## How to Reproduce the Best Result
 
 ### 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/annu1503/tml26-assignment-1-atml_team018.git)
+git clone https://github.com/annu1503/tml26-assignment-1-atml_team018.git
 cd YOUR_REPO
 
 ### 2. Install dependencies
