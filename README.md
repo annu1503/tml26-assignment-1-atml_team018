@@ -5,7 +5,7 @@ Membership Inference Attack on a ResNet-18 image classifier – Trustworthy Mach
 
 ### 1. Clone the repository
 git clone https://github.com/annu1503/tml26-assignment-1-atml_team018.git
-cd YOUR_REPO
+cd tml26-assignment-1-atml_team018
 
 ### 2. Install dependencies
 pip install -r requirements.txt
